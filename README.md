@@ -6,9 +6,9 @@ I specialize in **Python, SQL, and Machine Learning** — building end‑to‑en
 ---
 
 ## 🔧 Skills & Tools
-- **Programming:** Python (Pandas, NumPy, Scikit‑learn, Joblib), SQL (SQLite, SQLAlchemy, CTEs, ETL pipelines)  
+- **Programming:** Python (Pandas, NumPy, Scikit‑learn, Joblib), SQL (MYSQL,ETL pipelines)  
 - **Machine Learning:** Random Forest, Linear Regression, Decision Trees  
-- **Data Analysis:** Statistical testing, KPI reporting, vendor performance analysis  
+- **Data Analysis:** Statistical testing, KPI reporting  
 - **Visualization:** Matplotlib, Seaborn, Power BI  
 - **Other:** Professional documentation (README, Markdown), business‑friendly communication of technical results  
 
@@ -16,7 +16,7 @@ I specialize in **Python, SQL, and Machine Learning** — building end‑to‑en
 
 ## 📂 Featured Projects
 - 📊 **Vendor Performance Analysis** – Statistical insights & KPI dashboards for business decision‑making  
-- 🤖 **Machine Learning Pipelines** – End‑to‑end workflows with preprocessing, model training, and deployment readiness 
+- 🤖 **Gurgaon House Price Prediction** – End‑to‑end workflows with preprocessing, model training, and deployment readiness 
 
 *(Check my repositories for detailed READMEs and polished documentation!)*  
 

@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Prabhu  
 
-<!--
-**prabhu-analytics/prabhu-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Data Scientist / Analyst** passionate about turning raw data into actionable business insights.  
+I specialize in **Python, SQL, and Machine Learning** — building end‑to‑end workflows from data preprocessing to deployment‑ready models.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- **Programming:** Python (Pandas, NumPy, Scikit‑learn, Joblib), SQL (SQLite, SQLAlchemy, CTEs, ETL pipelines)  
+- **Machine Learning:** Random Forest, Linear Regression, Decision Trees  
+- **Data Analysis:** Statistical testing, KPI reporting, vendor performance analysis  
+- **Visualization:** Matplotlib, Seaborn, Power BI  
+- **Other:** Professional documentation (README, Markdown), business‑friendly communication of technical results  
+
+---
+
+## 📂 Featured Projects
+- 📊 **Vendor Performance Analysis** – Statistical insights & KPI dashboards for business decision‑making  
+- 🤖 **Machine Learning Pipelines** – End‑to‑end workflows with preprocessing, model training, and deployment readiness 
+
+*(Check my repositories for detailed READMEs and polished documentation!)*  
+
+---
+
+## 🎯 Goals
+- Short‑term: Upload multiple polished projects with professional documentation to GitHub  
+- Long‑term: Secure an entry‑level role in **Data Science / Business Analytics** and grow into impactful analytics leadership  
+
+---
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/) *(www.linkedin.com/in/prabhuranjan16)*  
+- 📧 Email: *(beingprabhu16@gmail.com)*  
+  
+
+---
+
+⭐️ *If you find my projects useful, consider giving them a star — it helps me grow and share more work!*
+
+
